@@ -1,0 +1,47 @@
+
+.text-danger{
+    text-align: start;
+    margin-left: 9px;
+}
+
+.card{
+
+
+    margin-bottom: 3em;
+    border-radius: 15px;
+    background: #89a9be;
+    box-shadow: inset -11px -11px 22px #65929e,
+                inset 11px 11px 22px #99e0a9;
+}
+.titulo{
+
+
+    text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5), 11px 7px 4px rgba(13,6,4,0.29);
+  }
+.select{
+    background-color: aliceblue;
+    border-radius: 0.4em;
+    padding: 0.3em;
+    text-align: center;
+    font-size:medium ;
+
+}
+.picker{
+    background-color: aliceblue;
+    border-radius: 0.4em;
+    padding: 0.3em;
+    text-align: center;
+    font-size:medium ;
+
+}
+.inmat{
+    border-radius: 0.4em;
+    border-color:aliceblue;
+    background-color: aliceblue;
+}
+input{
+    background-color: aliceblue;
+}
+label{
+    font-size: medium;
+}

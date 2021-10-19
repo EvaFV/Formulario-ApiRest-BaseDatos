@@ -1,0 +1,30 @@
+
+.fas{
+    cursor: pointer;
+    margin-left: 10px;
+}
+.card{
+    /*background: #134E5E;   fallback for old browsers */
+    /*background: -webkit-linear-gradient(to right, #134E5E,#71B280, );   Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,#80ce92,#5ca5b9,  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    border-radius: 30px;
+    background: linear-gradient(315deg, #71B280, #76abb9);
+    box-shadow:  -18px -18px 28px #6ba177,
+             18px 18px 28px #3f6670;
+    margin-top: 6em; 
+
+}
+button{
+    -webkit-box-shadow: 0px 0px 15px 2px #000000; 
+    box-shadow: 0px 0px 15px 2px #000000;
+    border-radius: 1em;
+    background-color: #3881b1;
+    color:#000000
+}
+
+.titulo{
+ 
+  
+  text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5), 11px 7px 4px rgba(13,6,4,0.29);
+}
