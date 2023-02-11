@@ -9,7 +9,7 @@
   "author": "Eva Fernández Villarejo",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "cors": "^2.8.5",
